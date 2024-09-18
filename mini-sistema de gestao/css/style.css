@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
